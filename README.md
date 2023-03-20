@@ -10,3 +10,7 @@ stock management.
 Sahel app food is a mobile application that
 will allow the manager to make his daily sales profitable and present the menus and dishes of the day
 to the customer with interactive interfaces
+
+
+# Home Page Screen 
+![image](https://user-images.githubusercontent.com/102699750/226371307-aeba28f9-91ac-4cca-935c-0a2c1665c6c6.png)
